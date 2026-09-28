@@ -1,6 +1,6 @@
 # 📝 Blog API
 
-A RESTful Blog API built with **Node.js, Express.js, MongoDB, and Mongoose**.
+A RESTful Blog API built with **Node.js, Express.js, MongoDB and Mongoose**.
 
 This project includes users authentication, authorization, blog posts management, comments, pagination, filtering, automated API testing and Dockerized development with MongoDB Atlas.
 
